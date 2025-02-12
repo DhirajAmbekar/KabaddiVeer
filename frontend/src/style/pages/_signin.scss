@@ -1,0 +1,12 @@
+.maindiv{
+    height: 100vh;
+    width: 100%;
+    background-image:url(../asset/netflix-signin-image.jpg);
+    background-repeat: no-repeat, repeat;
+    .box{
+        height: 600px;
+        width: 400px;
+        border: 1px solid black;
+        background-color: rgba(0, 0, 0, 0.406);
+    }
+}
